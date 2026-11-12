@@ -70,7 +70,7 @@
     object-fit:cover;
     border:5px solid white;
     position:relative;
-    top:10px;
+    top:3px;
 }
 .card-body{
     padding:90px 24px 20px;
