@@ -32,7 +32,7 @@
 .card-header h3{
     color:white;
     font-size:19px;
-    margin-top:0;
+    margin-top:8px;
     margin-bottom:6px;
 }
 .card-header p{
@@ -46,7 +46,7 @@
     border-radius: 50%;
     object-fit:cover;
     display:block;
-    margin:0 auto 12px;
+    margin:-8px auto 18px;
 }
 .photo-wrap{
     position:absolute;
