@@ -32,8 +32,8 @@
 .card-header h3{
     color:white;
     font-size:19px;
-    margin-top:-10px;
-    margin-bottom:0 0 8px;
+    margin-top:0;
+    margin-bottom:6px;
 }
 .card-header p{
     color: white;
@@ -47,7 +47,6 @@
     object-fit:cover;
     display:block;
     margin:0 auto 12px;
-    position:static;
 }
 .photo-wrap{
     position:absolute;
