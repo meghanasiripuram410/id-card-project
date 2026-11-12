@@ -69,8 +69,6 @@
     object-fit:cover;
     object-position:center;
     border:5px solid white;
-    position:relative;
-    top:3px;
 }
 .card-body{
     padding:90px 24px 20px;
