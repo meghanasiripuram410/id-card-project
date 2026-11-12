@@ -30,8 +30,9 @@
     text-color:white;
 
 }
-h3{
+.card-header h3{
     color:white;
+    font-size:13px;
 }
 .card-header p{
     color: white;
