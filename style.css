@@ -31,13 +31,12 @@
 .card-header h3{
     color:white;
     font-size:19px;
-    margin-top:8px;
-    margin-bottom:6px;
+    margin-top:0 0 6px;
 }
 .card-header p{
     color: white;
     font-size:15px;
-    margin-top:0;
+    margin:0;
 }
 .logo{
     width:65px;
@@ -45,7 +44,7 @@
     border-radius: 50%;
     object-fit:cover;
     display:block;
-    margin:-8px auto 18px;
+    margin: 0 auto 18px;
 }
 .photo-wrap{
     position:absolute;
@@ -69,7 +68,7 @@
     border-radius:50%;
     object-fit:cover;
     border:5px solid white;
-    position:10px;
+    position:relative;
     top:10px;
 }
 .card-body{
