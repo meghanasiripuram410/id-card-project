@@ -31,12 +31,13 @@
 .card-header h3{
     color:white;
     font-size:19px;
-    margin-top:0 0 6px;
+    margin-top:-5px;
+    margin-b0ttom:5px;
 }
 .card-header p{
     color: white;
     font-size:15px;
-    margin:0;
+    margin-top:-5px;
 }
 .logo{
     width:65px;
