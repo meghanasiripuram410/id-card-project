@@ -33,19 +33,20 @@
 .card-header h3{
     color:white;
     font-size:19px;
-    margin-top:5px;
+    margin-top:-10px;
     margin-bottom:10px;
 }
 .card-header p{
     color: white;
     font-size:15px;
-    margin-top:8px;
+    margin-top:-8px;
 }
 .logo{
     width:65px;
     height: 65px;
     border-radius: 50%;
     object-fit:cover;
+    margin-top:
     margin-bottom:8px;
 }
 .photo-wrap{
