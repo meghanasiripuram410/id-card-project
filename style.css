@@ -30,11 +30,13 @@
     text-color:white;
 
 }
+h3{
+    color:white;
+}
 .card-header p{
-    color: light grey;
+    color: white;
     font-size:15px;
     margin-top:8px;
-
 }
 .logo{
     width:55px;
@@ -117,4 +119,5 @@
 .footer-text{
     color:#475569;
     font-size:13px;
+    text-align:center;
 }
