@@ -1,0 +1,40 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card-container {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background: linear-gradient();
+    font-family: Arial, sans-serif;
+}
+.id-card{
+    width:340px;
+    background: white;
+    border-radius:18px ;
+    box-shadow: 0 12px 28px rgba(0,0,0,0.45);
+
+}
+.card-header{
+    background: linear-gradient(180deg,#08284a,#0a3a65);
+    padding: 28px 0 100px;
+    text-align: center;
+    text-color:white;
+
+}
+.card-header p{
+    color: aliceblue;
+    size:10px;
+
+}
+.logo{
+    width:55px;
+    height: 55px;
+    border-radius: 50%;
+}
