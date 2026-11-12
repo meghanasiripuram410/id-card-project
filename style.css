@@ -24,7 +24,7 @@
 }
 .card-header{
     background: linear-gradient(180deg,#08284a,#103f68);
-    padding: 20px 0 100px;
+    padding: 20px 10px 100px;
     text-align: center;
     color:white;
 
@@ -46,8 +46,8 @@
     border-radius: 50%;
     object-fit:cover;
     display:block;
-    margin-left:auto;
-    margin-right:auto;
+    margin:0 auto 12px;
+    position:static;
 }
 .photo-wrap{
     position:absolute;
